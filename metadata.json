@@ -1,0 +1,6 @@
+{
+  "name": "Manager Pro",
+  "description": "School management platform with multi-level partitioning, teacher timetable dispatch, secretary attendance marking, and discipline master oversight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
